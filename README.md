@@ -5,5 +5,7 @@ The system was implemented using Python’s built-in socket and threading librar
 
 # Files/Folders:
 chat.py - Main python file.
+
 Smaller Programs - Contains files of small programs that made up the main program. These were mainly used for understanding the working. A group server file is also included. It wasn't used in the main program though.
+
 Report - A report on the implementation.
